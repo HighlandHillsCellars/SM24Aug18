@@ -6,6 +6,7 @@ Created on Thu Mar 29 07:55:41 2018
 """
 # import sys
 # import glob
+# TODO This is a comment to test out GitHub stuff
 import contextlib
 import serial
 import time
