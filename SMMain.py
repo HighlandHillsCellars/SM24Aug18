@@ -8,6 +8,8 @@ Created on Thu Mar 29 07:55:41 2018
 # import glob
 # TODO This is a comment to test out GitHub stuff
 # TODO This is a change made on git hub????
+# TODO--this is being done in "new_master" branch
+# locally (i think); can we push and merge????
 import contextlib
 import serial
 import time
